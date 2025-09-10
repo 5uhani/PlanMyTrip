@@ -150,10 +150,10 @@ The Travel Planner App is a comprehensive platform designed to help users plan, 
 
 ## **Deployment**
 
-- **Frontend Repository:** [https://github.com/arunkarthik0712/travel-planner-frontend](https://github.com/arunkarthik0712/travel-planner-frontend)
-- **Backend Repository:** [https://github.com/arunkarthik0712/travel-planner-backend](https://github.com/arunkarthik0712/travel-planner-backend)
-- **Frontend**: [https://arunkarthik0710-travel-planner.netlify.app/](https://arunkarthik0710-travel-planner.netlify.app/)
-- **Backend**: `https://travel-planner-backend-39le.onrender.com`
+- **Frontend Repository:** 
+- **Backend Repository:** 
+- **Frontend**: 
+- **Backend**: 
 
 ## How to Run the Project
 
@@ -165,15 +165,15 @@ The Travel Planner App is a comprehensive platform designed to help users plan, 
 ### Clone the Repositories
 
 ```bash
-git clone https://github.com/arunkarthik0712/travel-planner-frontend.git
-git clone https://github.com/arunkarthik0712/travel-planner-backend.git
+
+
 ```
 
 ### Frontend
 
 1. Navigate to the frontend directory:
    ```bash
-   cd travel-planner-frontend
+  cd planmytrip
    ```
 2. Install the dependencies:
    ```bash
@@ -188,7 +188,7 @@ git clone https://github.com/arunkarthik0712/travel-planner-backend.git
 
 1. Navigate to the backend directory:
    ```bash
-   cd travel-planner-backend
+   cd planmytrip-backend
    ```
 2. Install the dependencies:
    ```bash
