@@ -1,6 +1,6 @@
-# **Travel Planner App**
+# **Travel Planner Web App**
 
-The Travel Planner App is a comprehensive platform designed to help users plan, organize, and manage their travel experiences. It offers features such as personalized travel planning, accommodation booking, and the ability to upload and explore information about various travel destinations.
+The Travel Planner Web App is a comprehensive platform designed to help users plan, organize, and manage their travel experiences. It offers features such as personalized travel planning, accommodation booking, and the ability to upload and explore information about various travel destinations.
 
 ## **Features**
 
@@ -130,19 +130,12 @@ The Travel Planner App is a comprehensive platform designed to help users plan, 
 
   - React.js
   - Tailwind CSS
-  - React Router
-  - Formik
-  - Yup
-  - Axios
 
 - **Backend:**
 
   - Node.js
   - Express.js
   - MongoDB
-  - JWT (JSON Web Tokens)
-  - Bcryptjs
-  - Cloudinary
 
 - **Deployment:**
   - Frontend: Netlify
@@ -150,10 +143,8 @@ The Travel Planner App is a comprehensive platform designed to help users plan, 
 
 ## **Deployment**
 
-- **Frontend Repository:** 
-- **Backend Repository:** 
-- **Frontend**: 
-- **Backend**: 
+- **Frontend Repository:** [https://github.com/5uhani/planmytrip-frontend](https://github.com/5uhani/planmytrip-frontend)
+- **Backend Repository:** [https://github.com/5uhani/planmytrip-backend](https://github.com/5uhani/planmytrip-backend)
 
 ## How to Run the Project
 
@@ -165,15 +156,15 @@ The Travel Planner App is a comprehensive platform designed to help users plan, 
 ### Clone the Repositories
 
 ```bash
-
-
+git clone https://github.com/5uhani/planmytrip-frontend.git
+git clone https://github.com/5uhani/planmytrip-backend.git
 ```
 
 ### Frontend
 
 1. Navigate to the frontend directory:
    ```bash
-  cd planmytrip
+  cd planmytrip-frontend
    ```
 2. Install the dependencies:
    ```bash
