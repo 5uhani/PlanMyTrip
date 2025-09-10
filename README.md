@@ -64,7 +64,6 @@ The Travel Planner Web App is a comprehensive platform designed to help users pl
 
    - Navigate to the "Upload Content" section on your dashboard.
    - Select images from your device and upload them to share your travel experiences.
-   - Your uploaded content will be stored on Cloudinary and available for others to explore.
 
 2. **Exploring Destinations:**
    - Browse through the "Discover" section to view content shared by other users.
@@ -187,7 +186,7 @@ git clone https://github.com/5uhani/planmytrip-backend.git
    ```bash
    npm install
    ```
-3. Set up environment variables for MongoDB, JWT, Cloudinary, etc.
+3. Set up environment variables for MongoDB, JWT etc.
 4. Start the server:
    ```bash
    npm run dev
