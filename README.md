@@ -130,12 +130,14 @@ The Travel Planner Web App is a comprehensive platform designed to help users pl
 
   - React.js
   - Tailwind CSS
+  - JavaScript
 
 - **Backend:**
 
   - Node.js
   - Express.js
   - MongoDB
+  - JavaScript
 
 - **Deployment:**
   - Frontend: Netlify
