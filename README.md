@@ -2,7 +2,7 @@
 
 PlanMyTrip is a modern travel planning web application built using React.js and Firebase. It enables users to discover travel destinations, create personalized itineraries, plan budgets, and organize trips efficiently through a responsive and intuitive interface.
 
----
+
 
 ## Features
 
@@ -34,7 +34,7 @@ PlanMyTrip is a modern travel planning web application built using React.js and 
 - Loading indicators
 - Reusable React components
 
----
+
 
 ## Technology Stack
 
@@ -65,11 +65,11 @@ PlanMyTrip is a modern travel planning web application built using React.js and 
 - ESLint
 - npm
 
----
+
 
 ## Project Structure
 
-```
+
 PlanMyTrip/
 │
 ├── public/
@@ -96,7 +96,7 @@ PlanMyTrip/
 └── README.md
 ```
 
----
+
 
 ## Installation
 
@@ -139,7 +139,7 @@ VITE_FIREBASE_MESSAGING_SENDER_ID=YOUR_MESSAGING_SENDER_ID
 VITE_FIREBASE_APP_ID=YOUR_APP_ID
 ```
 
----
+
 
 ## Key Functionalities
 
@@ -153,7 +153,7 @@ VITE_FIREBASE_APP_ID=YOUR_APP_ID
 - Context API for state management
 - Protected routing
 
----
+
 
 ## Future Enhancements
 
@@ -165,7 +165,7 @@ VITE_FIREBASE_APP_ID=YOUR_APP_ID
 - Collaborative trip planning
 - Travel history dashboard
 
----
+
 
 ## Author
 
