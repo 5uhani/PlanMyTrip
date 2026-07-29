@@ -69,7 +69,7 @@ PlanMyTrip is a modern travel planning web application built using React.js and 
 
 ## Project Structure
 
-
+```
 PlanMyTrip/
 │
 ├── public/
